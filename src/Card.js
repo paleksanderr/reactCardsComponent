@@ -1,7 +1,6 @@
 import React from 'react';
 
-const Card = (pro) => {
-  const {id, name, email} = pro;
+const Card = ({id, name, email}) => {
   return (
     <div className='tc bg-light-blue dib br3 pa3 ma2 grow bw2 shadow-5'>
       
