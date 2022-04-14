@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/paleksanderr/reactCardsComponent/static/css/main.b8905bad.css",
+    "main.js": "/paleksanderr/reactCardsComponent/static/js/main.6e6165ce.js",
+    "static/js/787.7542a023.chunk.js": "/paleksanderr/reactCardsComponent/static/js/787.7542a023.chunk.js",
+    "static/media/SEGA.woff": "/paleksanderr/reactCardsComponent/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/paleksanderr/reactCardsComponent/index.html",
+    "main.b8905bad.css.map": "/paleksanderr/reactCardsComponent/static/css/main.b8905bad.css.map",
+    "main.6e6165ce.js.map": "/paleksanderr/reactCardsComponent/static/js/main.6e6165ce.js.map",
+    "787.7542a023.chunk.js.map": "/paleksanderr/reactCardsComponent/static/js/787.7542a023.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8905bad.css",
+    "static/js/main.6e6165ce.js"
+  ]
+}
